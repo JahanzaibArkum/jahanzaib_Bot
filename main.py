@@ -45,7 +45,7 @@ st.markdown("""
         """, unsafe_allow_html=True)
 
 # 📌 Spacer (creates 5 lines gap)
-st.markdown("<br><br><br><br><br><br><br><br>", unsafe_allow_html=True)
+st.markdown("<br><br><br><br><br>", unsafe_allow_html=True)
 
 
 # 📌 Sidebar options
